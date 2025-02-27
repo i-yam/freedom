@@ -35,7 +35,6 @@ By encouraging students to build tangible solutions early and often, we seek to 
 - **[Google Dataset Search](https://datasetsearch.research.google.com/)**  
   Quick overview.
 
-*(Add more as needed.)*
 
 ---
 
@@ -49,24 +48,21 @@ By encouraging students to build tangible solutions early and often, we seek to 
 - **[Stanford CS230 Lectures](https://cs230.stanford.edu/)**  
   Overview.
 
-*(Add more as needed.)*
 
 ---
 
 ## Entrepreneurship Resources
-- **[Video Essays Playlist](https://www.youtube.com/watch?v=pQnOBHNKlgs&list=PLQ-uHSnFig5OA-fmW_IH2QvAuY7317FFl)**  
+- **[Video Essays YC Playlist](https://www.youtube.com/watch?v=pQnOBHNKlgs&list=PLQ-uHSnFig5OA-fmW_IH2QvAuY7317FFl)**  
   A curated series of video essays offering insights on entrepreneurship and disruptive thinking.
 
-- **[How to Build a Future Playlist](https://www.youtube.com/watch?v=tnBQmEqBCY0&list=PLQ-uHSnFig5MoTTcgd8EzenEADqGTQPpW)**  
+- **[How to Build a Future YC Playlist](https://www.youtube.com/watch?v=tnBQmEqBCY0&list=PLQ-uHSnFig5MoTTcgd8EzenEADqGTQPpW)**  
   Talks and discussions on envisioning and constructing impactful ventures.
 
-- **“Venture Mindset” by Strebulaev and Dang**  
+- **[“Venture Mindset”](https://www.amazon.de/Venture-Mindset-Smarter-Achieve-Extraordinary/dp/1399809989) by Strebulaev and Dang**  
   A book delving into the core principles of entrepreneurship and strategic thinking.
 
 - **[Lean Startup Methodology](http://theleanstartup.com/)**  
   A widely used framework for iterative product development, emphasizing validated learning and fast feedback loops.
-
-*(Add more as needed.)*
 
 ---
 
@@ -83,8 +79,6 @@ By encouraging students to build tangible solutions early and often, we seek to 
 
 - **[Microsoft for Startups](https://startups.microsoft.com/)**  
   Offers Azure credits and additional mentorship programs for eligible startups and students.
-
-*(Add more as needed.)*
 
 ---
 
