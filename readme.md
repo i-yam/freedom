@@ -96,8 +96,3 @@ By encouraging students to build tangible solutions early and often, we seek to 
 
 We welcome any contributions of high-quality or educational links. Feel free to open an issue or PR if you know a useful resource!
 
----
-
-## License
-
-CC-by
