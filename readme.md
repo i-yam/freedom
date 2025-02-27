@@ -11,7 +11,8 @@ A curated list of links and brief descriptions to help Master of AI students and
 4. [Entrepreneurship Resources](#entrepreneurship-resources)
 5. [Compute Grants](#compute-grants)
 6. [Contributing](#contributing)
-7. [License](#license)
+7. [Mainfranken Startup Ecosystem](#Mainfranken)
+8. [License](#license)
 
 ---
 
@@ -81,7 +82,11 @@ By encouraging students to build tangible solutions early and often, we seek to 
   Offers Azure credits and additional mentorship programs for eligible startups and students.
 
 ---
+## Mainfranken Startup Ecosystem
+- **[Startup-acceleration programs](https://www.linkedin.com/pulse/welches-start-up-programm-passt-zu-dir-wuerzburg-web-week-njgje/)**  
+  An overview of regional startup acceleration programs curated by [Würzburg Web Week](https://www.linkedin.com/company/wuerzburg-web-week).
 
+---
 ## Contributing
 1. Open this [repository](https://github.com/i-yam/freedom) on GitHub;
 3. Fork this repository;
