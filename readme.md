@@ -83,10 +83,11 @@ By encouraging students to build tangible solutions early and often, we seek to 
 ---
 
 ## Contributing
-1. Fork this repository.
-2. Create a new branch for your additions.
-3. Commit and push your changes.
-4. Open a Pull Request.
+1. Open this [repository](https://github.com/i-yam/freedom) on GitHub;
+3. Fork this repository;
+4. Create a new branch for your additions;
+5. Commit and push your changes;
+6. Open a Pull Request.
 
 We welcome any contributions of high-quality or educational links. Feel free to open an issue or PR if you know a useful resource!
 
