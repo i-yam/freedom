@@ -70,7 +70,7 @@ By encouraging students to build tangible solutions early and often, we seek to 
 - **[Google Cloud Research Credits](https://edu.google.com/programs/credits/research/)**  
   Offers cloud credits for qualifying research projects involving AI or large-scale data processing.
 
-- **[Nebius Research Compute Grants]((https://nebius.com/nebius-research-credits-program))**  
+- **[Nebius Research Compute Grants](https://nebius.com/nebius-research-credits-program)**  
   Provides dedicated compute resources for academic and non-commercial AI research initiatives.  
   *(Please note: direct link to grant application pages may vary by region or program updates.)*
 
