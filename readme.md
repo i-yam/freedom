@@ -11,7 +11,7 @@ A curated list of links and brief descriptions to help Master of AI students and
 4. [Entrepreneurship Resources](#entrepreneurship-resources)
 5. [Compute Grants](#compute-grants)
 6. [Contributing](#contributing)
-7. [Mainfranken Startup Ecosystem](#Mainfranken)
+7. [Mainfranken Startup Ecosystem](#Mainfranken-Startup-Ecosystem)
 8. [License](#license)
 
 ---
